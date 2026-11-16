@@ -1,3 +1,3 @@
 [Neo4j 공식 사이트](https://neo4j.com)
 
-![그래프 시각화 화면](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a4d5fc00-74ff-4730-9b51-fd989081b403" />)
+![그래프 시각화 화면](https://search.pstatic.net/common/?src=https%3A%2F%2Fshop-phinf.pstatic.net%2F20261004_59%2F1791083488322uj2Dp_JPEG%2F45601480699240185_311849645.jpeg&type=sc960_832) 
